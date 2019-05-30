@@ -12,35 +12,35 @@ Updated 30.05.19
 0		Nikolay_Petrov
 0		Tony_Barrera
 
-1 		Natsumi_Takahashi
-2 		Robert_Ganze
+1 	Natsumi_Takahashi
+2 	Robert_Ganze
 
-3 		Rafael_Auditore
-4 		Daniel_Davis
-5 		Connor_McCarthy
-6 		Anastasia_Fate
-7 		Samuel_Rodriguez
-8		  Randy_Porello
-9		  Adolfo_Stefano
-10		Gerhard_Destra
-11		Mew_Davis
+3		Rafael_Auditore
+4		Daniel_Davis
+5 	Connor_McCarthy
+6		Anastasia_Fate
+7		Samuel_Rodriguez
+8	  Randy_Porello
+9	  Adolfo_Stefano
+10	  Gerhard_Destra
+11	  Mew_Davis
 12    Youta_Takahashi
 
 13    Frederico_May
 14    Gaspar_Capone
 15    Saint_Navaro
 16    Emmanuel_Rodriguez
-17		Mickey_Green
-18		Daniel_Hate
-19		Matthew_Conway
-20		Joshua_Recruit
-21		Cherry_Recruit
-22		Hector_Watson
-23		Ernesto_Green
-24		Arthur_Hoffmann
-25		Christian_McCarthy
-26		Donald_Walker
-27		Benito_Destra
+17	  Mickey_Green
+18	  Daniel_Hate
+19	  Matthew_Conway
+20	  Joshua_Recruit
+21	  Cherry_Recruit
+22	  Hector_Watson
+23	  Ernesto_Green
+24	  Arthur_Hoffmann
+25	  Christian_McCarthy
+26	  Donald_Walker
+27	  Benito_Destra
 28    Sandro_DeVerde
 29    Howard_Auditore
 30    Shawn_McCarthy
@@ -49,7 +49,7 @@ Updated 30.05.19
 
 33    Gerhard_Hate
 34    Сastiel_Green
-35    Pio_Сonsuello
+35    Pio_Consuello
 36    Robert_Landon
 37    Annibale_Emiliano
 38    Felix_Watson
