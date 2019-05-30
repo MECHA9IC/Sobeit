@@ -7,14 +7,11 @@ Updated 30.05.19
 [3]		0	FFFF00
 [2]		2	00FFFF
 [1]		1	FFFFFF
-
 0		Mickey_Ward
 0		Nikolay_Petrov
 0		Tony_Barrera
-
 1 	Natsumi_Takahashi
 2 	Robert_Ganze
-
 3		Rafael_Auditore
 4		Daniel_Davis
 5 	Connor_McCarthy
@@ -25,7 +22,6 @@ Updated 30.05.19
 10	  Gerhard_Destra
 11	  Mew_Davis
 12    Youta_Takahashi
-
 13    Frederico_May
 14    Gaspar_Capone
 15    Saint_Navaro
@@ -46,7 +42,6 @@ Updated 30.05.19
 30    Shawn_McCarthy
 31    Nathan_Lafirenze
 32    Jesus_Hemingway
-
 33    Gerhard_Hate
 34    Сastiel_Green
 35    Pio_Consuello
@@ -60,8 +55,6 @@ Updated 30.05.19
 43    Lorenzo_Stefano 
 44    Vincenzo_Galilei
 45    Daniel_Recruit
-
 46    Ricky_Late
 47    Cameron_Auditore
-
 48    Bobby_Costa
