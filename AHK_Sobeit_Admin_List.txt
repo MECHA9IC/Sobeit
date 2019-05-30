@@ -35,7 +35,7 @@ Updated 30.05.19
 23		Niko_Destra
 24		Hector_Watson
 25		Ernesto_Green
-26		Ñastiel_Green
+26		Castiel_Green
 27		Arthur_Hoffmann
 28		Hiroshi_Iwasaki
 29		Edward_Hate
