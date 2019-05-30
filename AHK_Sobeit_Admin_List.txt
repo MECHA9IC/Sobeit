@@ -1,57 +1,67 @@
 Updated 30.05.19
 [RED]		3	FF0000
 [7]		2	7402FF
-[6]		9	228B22
-[5]		14	00FF05
-[4]		10	FF4500
-[3]		2	FFFF00
-[2]		0	00FFFF
-[1]		8	FFFFFF
+[6]		10	228B22
+[5]		20	00FF05
+[4]		13	FF4500
+[3]		0	FFFF00
+[2]		2	00FFFF
+[1]		1	FFFFFF
+
 0		Mickey_Ward
 0		Nikolay_Petrov
 0		Tony_Barrera
+
 1 		Natsumi_Takahashi
-2 		Robert_Ganze   
+2 		Robert_Ganze
+
 3 		Rafael_Auditore
-4 		Gaspar_Capone
-5 		Daniel_Davis
-6 		Connor_McCarthy
-7 		Frederico_May
-8 		Anastasia_Fate
-9 		Samuel_Rodriguez
-10		Randy_Porello
-11		Eldorado_Inferno
-12		Adolfo_Stefano
-13		Saint_Navaro
-14		Gerhard_Destra
-15		Emmanuel_Rodriguez
-16		Mew_Davis
+4 		Daniel_Davis
+5 		Connor_McCarthy
+6 		Anastasia_Fate
+7 		Samuel_Rodriguez
+8		  Randy_Porello
+9		  Adolfo_Stefano
+10		Gerhard_Destra
+11		Mew_Davis
+12    Youta_Takahashi
+
+13    Frederico_May
+14    Gaspar_Capone
+15    Saint_Navaro
+16    Emmanuel_Rodriguez
 17		Mickey_Green
 18		Daniel_Hate
-19		Nicolette_Watson
-20		Matthew_Conway
+19		Matthew_Conway
+20		Joshua_Recruit
 21		Cherry_Recruit
-22		Joshua_Recruit
-23		Niko_Destra
-24		Hector_Watson
-25		Ernesto_Green
-26		Castiel_Green
-27		Arthur_Hoffmann
-28		Hiroshi_Iwasaki
-29		Edward_Hate
-30		Christian_McCarthy
-31		Sandro_DeVerde
-32		Howard_Auditore
-33		Gerhard_Hate
-34		Donald_Walker
-35		Benito_Destra
-36		Stay_Rose
-37		Otis_Redding
-38		Jesus_Hemingway
-39		Nathan_Lafirenze
-40		Shifu_Murano
-41		Pio_Consuello
-42		Robert_Landon
-43		Annibale_Emiliano
-44		Felix_Watson
-45		Robert_Jessen
+22		Hector_Watson
+23		Ernesto_Green
+24		Arthur_Hoffmann
+25		Christian_McCarthy
+26		Donald_Walker
+27		Benito_Destra
+28    Sandro_DeVerde
+29    Howard_Auditore
+30    Shawn_McCarthy
+31    Nathan_Lafirenze
+32    Jesus_Hemingway
+
+33    Gerhard_Hate
+34    Сastiel_Green
+35    Pio_Сonsuello
+36    Robert_Landon
+37    Annibale_Emiliano
+38    Felix_Watson
+39    Robert_Jessen
+40    Snakeoz_Encore
+41    Blaze_Brait
+42    Leonardo_Fate
+43    Lorenzo_Stefano 
+44    Vincenzo_Galilei
+45    Daniel_Recruit
+
+46    Ricky_Late
+47    Cameron_Auditore
+
+48    Bobby_Costa
