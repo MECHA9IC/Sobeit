@@ -1,2 +1,2 @@
 # Sobeit
-AutoHotKey Sobeit by MECHANIC
+AutoHotKey GTA San Andreas Multiplayer Sobeit by MECHANIC
